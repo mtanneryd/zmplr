@@ -2,8 +2,6 @@
 
 **Zmplr** is a small family of focused .NET libraries.
 
-**Home page:** [mtanneryd.github.io/zmplr](https://mtanneryd.github.io/zmplr/)
-
 | Package | Summary |
 |---------|---------|
 | [Zmplr.Chronometry](https://www.nuget.org/packages/Zmplr.Chronometry) | `DateTime` helpers, inclusive date intervals, calendar slicing, and Christian movable-feast dates |
