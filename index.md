@@ -3,7 +3,7 @@ layout: default
 title: Zmplr
 ---
 
-**Zmplr** is a small family of focused .NET libraries.
+**Zmplr** is a small family of .NET libraries developed and maintained by [Måns Tånneryd](https://se.linkedin.com/in/manstanneryd).
 
 | Package | Summary |
 |---------|---------|
@@ -51,19 +51,6 @@ Optional embedded multi-host monitor UI for `Zmplr.Jobs`. Serves a React SPA und
 ```bash
 dotnet add package Zmplr.Jobs.Monitor
 ```
-
----
-
-## Versioning
-
-Zmplr packages use [GitVersion](https://gitversion.net/):
-
-| Branch | Example |
-|--------|---------|
-| `master` / `main` | `2026.2.0` |
-| `develop` | `2026.2.0-beta.…` |
-| `feature/*` | `2026.2.0-alpha.…` |
-| `release/*` | `2026.2.0-rc.N` |
 
 ---
 
