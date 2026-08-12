@@ -8,7 +8,7 @@ title: Zmplr
 | Package | Summary |
 |---------|---------|
 | [Zmplr.Chronometry](https://www.nuget.org/packages/Zmplr.Chronometry) | `DateTime` helpers, inclusive date intervals, calendar slicing, and Christian movable-feast dates |
-| [Zmplr.Jobs](https://www.nuget.org/packages/Zmplr.Jobs) | In-memory ASP.NET job scheduler with a `/zmplr` API |
+| [Zmplr.Jobs](https://www.nuget.org/packages/Zmplr.Jobs) | In-memory ASP.NET Core / net48 job scheduler with a `/zmplr` API |
 | [Zmplr.Jobs.Monitor](https://www.nuget.org/packages/Zmplr.Jobs.Monitor) | Optional embedded multi-host monitor UI for `Zmplr.Jobs` |
 
 ---
@@ -60,10 +60,10 @@ Zmplr packages use [GitVersion](https://gitversion.net/):
 
 | Branch | Example |
 |--------|---------|
-| `master` / `main` | `2026.1.0` |
-| `develop` | `2026.1.0-beta.…` |
-| `feature/*` | `2026.1.0-alpha.…` |
-| `release/*` | `2026.1.0-rc.N` |
+| `master` / `main` | `2026.2.0` |
+| `develop` | `2026.2.0-beta.…` |
+| `feature/*` | `2026.2.0-alpha.…` |
+| `release/*` | `2026.2.0-rc.N` |
 
 ---
 
